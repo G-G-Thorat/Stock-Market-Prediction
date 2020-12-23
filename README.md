@@ -9,7 +9,6 @@ Stock market data can be interesting to analyze and as a further incentive, stro
 
 The script I used to acquire all of these .csv files can be found in this GitHub repository In the future if you wish for a more up to date dataset, this can be used to acquire new versions of the .csv files.
 
-Feb 2018 note: I have just updated the dataset to include data up to Feb 2018. I have also accounted for changes in the stocks on the S&P 500 index (RIP whole foods etc. etc.).
 
 # Content
 The data is presented in a couple of formats to suit different individual's needs or computational limitations. I have included files containing 5 years of stock data (in the all_stocks_5yr.csv and corresponding folder).
